@@ -1,7 +1,5 @@
 # Amazon Product Monitor
 
-## Description
-
 This Discord bot monitors Amazon product availability and sends notifications to a specified webhook when a product becomes available for purchase.
 
 ## Features
