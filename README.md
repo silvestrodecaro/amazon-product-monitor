@@ -13,7 +13,7 @@ This Discord bot monitors Amazon product availability and sends notifications to
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/silvestrodecaro/amazon-product-monitor
 
 2. **Initialize the project:**
 
